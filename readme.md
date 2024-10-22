@@ -1,3 +1,5 @@
+![Submission: Evaluasi Pembelajaran Akhir](https://i.ibb.co/GcSVKn9/Screenshot-2024-10-22-230205.png)
+
 # JavaScript Learning Reference Repository
 
 ## Important Notice on Repository Usage
